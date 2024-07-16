@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AbuElkheir 
-- 🌱 I’m currently learning Embedded Systems Development  and also Web Development 
+- 🌱 Software Developer @Ultimus , Technical Content Presenter @Almentor.net
 - 📫 Reach me out on twitter @abuelkheir_
 -     I also happen to be a part time Educational content creator on Youtube 
 
